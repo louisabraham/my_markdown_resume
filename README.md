@@ -15,12 +15,12 @@ For example, I used this code to produce [my own resume](https://louisabraham.gi
 
 ## Instructions:
 
-    git clone https://github.com/louisabraham/my_pandoc_resume
+    git clone https://github.com/louisabraham/my_markdown_resume
     cd my_pandoc_resume
     mate resume.md   # insert your own resume info
     make
 
-You can change the font size directly in the resume.md file.
+You can change the font size directly in the `resume.md` file.
 
 ## Requirements:
 
