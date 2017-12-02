@@ -9,9 +9,10 @@ All you need to know about Markdown is in the example.
 
 When compiled, it gives a pdf file looking like this: 
 
-![example](https://github.com/louisabraham/my_markdown_resume/raw/master/example.png)
+<img src="https://github.com/louisabraham/my_markdown_resume/raw/master/example.png"
+alt="example" width="60%" />
 
-For example, I used this code to produce [my own resume](https://louisabraham.github.io/resume.pdf).
+I also used this code to produce [my own resume](https://louisabraham.github.io/resume.pdf).
 
 ## Instructions:
 
